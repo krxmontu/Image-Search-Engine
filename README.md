@@ -1,1 +1,1 @@
-# Image-Search-Engine
+# Image Search Engine for Photo Gallery
